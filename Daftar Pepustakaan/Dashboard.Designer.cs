@@ -229,7 +229,7 @@ namespace Daftar_Pepustakaan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkCyan;
+            this.BackColor = System.Drawing.Color.SteelBlue;
             this.ClientSize = new System.Drawing.Size(960, 548);
             this.Controls.Add(this.textBox7);
             this.Controls.Add(this.textBox6);
